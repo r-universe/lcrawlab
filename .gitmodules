@@ -5,3 +5,6 @@
 [submodule "mvMAPIT"]
 	path = mvMAPIT
 	url = https://github.com/lcrawlab/mvmapit
+[submodule "smer"]
+	path = smer
+	url = https://github.com/lcrawlab/sme
